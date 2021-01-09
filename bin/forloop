@@ -1,0 +1,7 @@
+# history repeat its self . Looping
+
+for i in 123456
+do
+echo "Hellow $i time"
+done
+

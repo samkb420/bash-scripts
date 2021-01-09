@@ -1,0 +1,9 @@
+# its obvious to putin on keyboard ....
+
+echo "Enter Your first name please"
+
+read fname
+
+echo "Hello $fname ,lets be friends!"
+
+

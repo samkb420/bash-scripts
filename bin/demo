@@ -1,0 +1,14 @@
+# baby is awwsome
+
+
+echo "Total number of command line argument are $#"
+
+echo "$0 is script name"
+
+echo "$1 is the first arg"
+
+echo  "$2 is the second arg"
+
+echo "All of them are [ $*]"
+
+

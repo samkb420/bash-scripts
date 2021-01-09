@@ -1,0 +1,17 @@
+# we sometime do check on others to be Moved or Pushed to work more
+
+if [$# -eq 0 ]
+then 
+
+	echo "$1 : You must/Supply Integers"
+exit 0
+fi
+
+if test $1 -ge 0
+then
+	echo "$1 number is positive"
+else
+	echo "$1 number is negative"
+fi
+
+

@@ -1,0 +1,12 @@
+# equality is needed for future that is Humanity
+
+if test $1 -eq $2
+then
+	echo "$1 is Equal to $2"
+else
+	echo "$1 is Not Equal to $2"
+
+fi
+
+
+

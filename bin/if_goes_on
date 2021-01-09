@@ -1,0 +1,8 @@
+# laugh is what make us forget we are animals 
+
+if rm $1
+then
+	echo "The file $1 deleted successfully"
+
+fi
+

@@ -1,0 +1,7 @@
+
+# interface and designs is what we adoore
+
+dialog --title "Linux Dialog Utility Infobox" --backtitle "Linux shell script\
+Tutorial" --infobox "This is an dialog box called infobox ,which is used\
+to show some infomation on screen ,Thanks to Savio Lam and \
+Stuart Herbert to give us this utility.press any key ..." 7 50;read

@@ -1,0 +1,8 @@
+# Incriment is what help us know if we are Growing
+
+inc=$1
+
+for i in 1 2 3 4 5
+do 
+ echo "$inc + $i = `expr $i + $inc`"
+done

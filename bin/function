@@ -1,0 +1,8 @@
+# we are have function to execute and thats why we are commited
+
+sayhello()
+{
+ echo "$LOGNAME , HAVE a nice computing"
+}
+
+sayhello

@@ -1,0 +1,13 @@
+# its good to do more and more research
+
+if test $1 == sam
+then
+	echo "You got me Am $1"
+elif test $1 != sam
+
+	echo "wooooh you are not near $1"
+elif test -z $1
+else
+	echo "next time try check the code and See the Right Answer"
+fi
+

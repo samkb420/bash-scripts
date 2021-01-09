@@ -1,0 +1,4 @@
+head -5 cpuinfo
+
+
+tail -5 cpuinfo

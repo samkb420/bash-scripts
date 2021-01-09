@@ -1,0 +1,8 @@
+# why do we need positive ..is much of what  + more money/dollAR
+
+if test $1 -gt 0
+then 
+	echo "$1 is a positive Number"
+fi
+
+

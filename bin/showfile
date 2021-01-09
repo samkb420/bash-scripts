@@ -1,0 +1,10 @@
+# cows do moooo .. its funny
+
+if cat $1
+then
+	echo -e "\n\n File $1, found and successfull echoed"
+
+fi
+
+
+

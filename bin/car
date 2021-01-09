@@ -1,0 +1,16 @@
+# for the love of Bmw
+if [-z $1]
+then
+ rental="*** Unknown Vehicle ***"
+elif [-n $1]
+then
+ rental=$1
+fi
+case $rental in
+ "Bmw") echo "For $rental 4000ksh per day";;
+ "mazda") echo "For $rental 3000ksh per day";;
+ "tesla"0 echo "For $rental 2000ksh per day";;
+ *) echo "sorry, I gat you a a $rental for you";;
+esac
+
+
